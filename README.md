@@ -5,7 +5,17 @@ To refactor an existing webpage in order to make it accessible, so it is optimiz
 Screenshots
 
 ![01-html-css-git-homework-demo](https://github.com/cadenbetts1/HTML-CSS-Git-Challenge-Code-Refactor/assets/132243976/65acad76-959c-4a07-aade-ea79ef32d175)
-![01-html-css-git-homework-demo](https://github.com/cadenbetts1/HTML-CSS-Git-Challenge-Code-Refactor/assets/132243976/88971bf6-351f-4294-90af-e4b76a1a47fb)
+
+In orther to accomplish the challege, the following steps were done:
+
+Understand clearly the webpage purpose and content
+Research sources to understand key concepts
+What code refactoring is
+Semantic HTML
+Web accesibility standards
+How to edit Markdown files
+Proper use of a README.mb file
+Apply above concepts in the revision and editing of the HTML and CSS files
 
 
 Run Locally
