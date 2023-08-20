@@ -1,6 +1,5 @@
-# HTML-CSS-Git-Challenge-Code-Refactor
+HTML-CSS-Git-Challenge-Code-Refactor
 Module 1 Challenge
-
 
 User Story
 
@@ -36,13 +35,10 @@ THEN I find a concise, descriptive title
 
 Mock-Up
 
-NOTE
-This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px. In future lessons, you will learn how to make elements "responsive" so that your web application is optimized for any screen size.
+NOTE This layout is designed for "desktop", so you may notice that some of the elements don't look like the Mock-Up when viewed at a resolution smaller than 768px. In future lessons, you will learn how to make elements "responsive" so that your web application is optimized for any screen size.
 
 The following image shows the web application's appearance and functionality:
 
 A webpage titled "Horiseon" features a navigation menu in the header, a hero image, various sections, and more.
 
-![image](https://github.com/cadenbetts1/HTML-CSS-Git-Challenge-Code-Refactor/assets/132243976/f9c88457-bdb0-4e8e-aed7-69326a739ed1)
-
-
+![Alt text](image.png)
