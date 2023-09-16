@@ -25,5 +25,8 @@ Screenshots
 
 Link to Deployed Application
 
+https://cadenbetts1.github.io/Horiseon.com-Project/
+
 Link to Linkedin.com
+
 https://www.linkedin.com/in/cadenmbetts/
